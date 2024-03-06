@@ -1,13 +1,13 @@
 # ETL and Business Intelligence Project - Walmart Sales Data
 
-By: Liz Wilson
+By: Liz Wilson<br>
 February 20, 2024
 
 ## *Analyzing, Modeling, and Finding Answers*
 ![ETL and BI Project](assets/sql.jpg "ETL and BI Project")
 Image by <a href="https://www.freepik.com/free-vector/hand-drawn-flat-design-sql-illustration_21901977.htm#query=sql&position=2&from_view=search&track=sph&uuid=b4892228-dd0b-4589-932d-33d3a7663bc1">Freepik</a>
 
-## The Project
+## Project Overview
 The goal of this project is to demonstrate the ETL process for loading a file into a staging table and then loading the data from stage to target tables.  SQL will be executed to understand the dataset and the level of granularity of each piece of data. Source to Target documentation will be created that will outline how the data will flow into each table.  A data model will also be created which will include the target tables and will show the relationships between the tables.  The data will be loaded to a PostgreSQL database.  Aggregate views will be created using SQL.  Questions will be posed and the views will be pulled into Pandas dataframes and visualizations will be created in order to answer the questions.  The dataset is a sales dataset with order, customer, and product information.    
 
 The project is contained within this [Jupyter Notebook](walmart_analysis.ipynb).  The data will be imported from Kaggle, saved as a Pandas data frame, and various libraries will be utilized to accomplish the analysis, SQL queries, and visualizations. You may be asking yourself why I didn't just execute SQL queries directly from the original dataset (and this is a good question).  I wanted to demonstrate the ETL process that would most likely occur in the real world when a new file needs to be ingested and transformed in such a way that the transformed data can easily be utilized to answer business questions.
