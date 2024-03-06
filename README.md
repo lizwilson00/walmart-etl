@@ -3,7 +3,7 @@
 By: Liz Wilson<br>
 February 20, 2024
 
-## *Analyzing, Modeling, and Finding Answers*
+## *Analyzing, Modeling, and Answering Business Questions*
 ![ETL and BI Project](assets/sql.jpg "ETL and BI Project")
 Image by <a href="https://www.freepik.com/free-vector/hand-drawn-flat-design-sql-illustration_21901977.htm#query=sql&position=2&from_view=search&track=sph&uuid=b4892228-dd0b-4589-932d-33d3a7663bc1">Freepik</a>
 
