@@ -1,0 +1,7 @@
+# Ignore the dataset itself
+global-superstore/
+# Ignore the numbers STT
+STT.numbers
+.ipynb_checkpoints/
+not_needed/
+.DS_Store
