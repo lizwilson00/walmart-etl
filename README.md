@@ -37,10 +37,10 @@ Next, the data model was created.  It seemed logical to have a customers table, 
 ![Data Model](assets/data_model.jpeg "Data Model")
 
 ### Source to Target Documentation
-The [Source to Target documentation](assets/stt.pdf) contains the transformation logic that will happen when loading the data to the Stage table and then to the Target tables.  In a normal production environment we would need additional meta tables to support files being loaded on a regular basis and additional logic and database fields would be needed.
+The [Source to Target documentation](assets/STT.pdf) contains the transformation logic that will happen when loading the data to the Stage table and then to the Target tables.  In a normal production environment we would need additional meta tables to support files being loaded on a regular basis and additional logic and database fields would be needed.
 
 TO DO: ADD EMBEDDED VIDEO FROM GITHUB!
-[![Watch the video](assets/stt_screenshot.jpg)](assets/stt_video.mp4)
+[![Watch the video](assets/stt_screenshot.jpg)](assets/STT_video.mp4)
 
 ### Transform and Load
 #### Loading from Stage to Target
